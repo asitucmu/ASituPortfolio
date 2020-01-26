@@ -16,7 +16,7 @@ Below is a graphical depiction of national debt by each country. The size of the
 <br />
 <br />
 
-Title: Government debt as percent of GDP over time
+Title: Government debt as percent of GDP over time<br />
 Description: Although the US’ debt is high, Japan’s debt soars above all other countries. 
 
 
