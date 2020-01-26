@@ -9,4 +9,5 @@ During my summer internship, I strugged to make presentations that were visually
 
 # Portfolio
 Here is where I will store the data visualizations for class. 
-<iframe src="https://data.oecd.org/chart/5PeS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5PeS" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2015</a></iframe>
+
+[Assignment 2](/dataviz2.md)
