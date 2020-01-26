@@ -10,4 +10,4 @@ During my summer internship, I strugged to make presentations that were visually
 # Portfolio
 Here is where I will store the data visualizations for class. 
 
-[Assignment 2](/dataviz2.md)
+[Assignment 2:government debt](/dataviz2.md)
