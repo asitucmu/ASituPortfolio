@@ -11,4 +11,6 @@ During my summer internship, I strugged to make presentations that were visually
 Here is where I will store the data visualizations for class. 
 
 [Assignment 2: Government debt](/dataviz2.md)
+ #
+[Assignment 3&4: Critique by Design](/dataviz3.md)
 
