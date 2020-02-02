@@ -12,7 +12,7 @@ Two criteria from the critique method helped me think about how to improve the g
 
 To redesign the graph, I thought it was important to read the article and identify what the main points of it was and how the article is using the graph. The article addresses growing trends in low-back pain diagnosis and high medical costs related to it. The main point of the article (and what the graph is meant to illustrate) is that the burden of low-back pain is slowly decreasing over time, inferring that there is some justification for the price of care. The point of the graph seemed simple, to show that years lived with back pain is decreasing, but it is shown in a convoluted way. 
 
-Below are my initial wireframes. I decided to move the y-axis scale to the left and use the average years lived instead of the per 100,000 people unit that the articles used. I started with a bar graph to compare with the line graph. The bar graph seemed to focus on years lived per each age group, so I stuck with the line graph. I cleaned it up and added more details to it before sharing it for feedback. 
+Below are my initial wireframes. I decided to move the y-axis scale to the left and use the average years lived instead of the per 100,000 people unit that the articles used. I started with a bar graph to compare with the line graph. The bar graph seemed to focus on years lived per each age group, so I stuck with the line graph. I cleaned it up and added more details to it before sharing it for feedback from two different people. 
 
 
 ![image](https://user-images.githubusercontent.com/59805738/73603471-3f023c00-4551-11ea-894f-db9cd068744f.png)
