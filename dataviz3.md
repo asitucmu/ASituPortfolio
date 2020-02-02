@@ -19,10 +19,10 @@ Below are my initial wireframes. I decided to move the y-axis scale to the left 
 
 
 Feedback I received:
--Change y-axis scale, too much blank space
--Line graph was a good choice to show the information
--Monocolor was acceptable because the graph is only measuring 2 things
--Understood that back pain disability was decreasing over time
+- Change y-axis scale, too much blank space
+- Line graph was a good choice to show the information
+- Monocolor was acceptable because the graph is only measuring 2 things
+- Understood that back pain disability was decreasing over time
 
 I used the feedback to modify the y-axis scale. After pulling the files from IHME and working with the data, I realized it was harder to show average life lived per person with back pain (the data was not available to support it). Instead, I massaged the data to show the percent of total years lived with back pain per age group. I used Tableau to create an updated version of the graph. 
 Updated version: 
