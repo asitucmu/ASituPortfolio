@@ -1,0 +1,13 @@
+Original graphic from The Economist (https://www.economist.com/briefing/2020/01/18/back-pain-is-a-massive-problem-which-is-badly-treated)
+https://www.economist.com/img/b/1280/1476/85/sites/default/files/images/print-edition/20200118_FBC183_0.png
+Referenced data source: 
+http://ghdx.healthdata.org/record/ihme-data/gbd-2017-incidence-prevalence-and-ylds-1990-2017
+
+I choose this visualization because I am very interested in health policy and would like to explore how health can influence labor and employment. Because people with back pain are commonly classified as having a disability, this graph can be useful to explain how health trends can have a direct impact on employment trends. The accompanying article made a great point about the effectiveness of long term care and conditioning but rarely do people follow through with these instructions and often choose one-time “fixes” like surgery. The visualization is informative, but one would have to look longer than necessary to understand the trend and here is my attempt to make it better.
+
+Two criteria from the critique method helped me think about how to improve the graph: completeness and intuitiveness. The graph doesn’t seem very complete, in fact, it offers more information than necessary and lacks information at the same time. Comparing years lived per 100,000 people is confusing and the graph should provide something for the audience to anchor or determine what is “normal”. The graph also is not intuitive. The y-axis is on the right and the scale makes it hard to read. I want to redesign the graph focusing on these elements. 
+
+To redesign the graph, I thought it was important to read the article and identify what the main points of it was and how the article is using the graph. The article addresses growing trends in low-back pain diagnosis and high medical costs related to it. The main point of the article (and what the graph is meant to illustrate) is that the burden of low-back pain is slowly decreasing over time, inferring that there is some justification for the price of care. The point of the graph seemed simple, to show that years lived with back pain is decreasing, but it is shown in a convoluted way. 
+
+Below are my initial wireframes. I decided to move the y-axis scale to the left and use the average years lived instead of the per 100,000 people unit that the articles used. I started with a bar graph to compare with the line graph. The bar graph seemed to focus on years lived per each age group, so I stuck with the line graph. I cleaned it up and added more details to it before sharing it for feedback. 
+
