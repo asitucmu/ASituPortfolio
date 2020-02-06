@@ -15,3 +15,5 @@ Here is where I will store the data visualizations for class.
  
 [Assignment 3&4: Critique by Design](/dataviz3.md)
 
+
+[Part I: FInal Project] (/finalpt1.md)
