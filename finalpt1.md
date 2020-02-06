@@ -18,11 +18,11 @@ My story arc will have the following components:
 3. Resolution/call to action: Proper training and mental preparation can overcome these challenges. And running is good for you, so run more. 
 
 
-## Initial Sketches
+### Initial Sketches
 
 
 
-## Data 
+### Data 
 My data sources will include:
 * My own running data collected from my GPS watch. Uploaded here: 
 * Offical race data from race organizers. Sources:
@@ -32,7 +32,7 @@ My data sources will include:
   * Supplemental tips for running like mental conditioning, tools to plan long runs. Sources: 
 
 
-## Method and Medium
+### Method and Medium
 I will be using Shorthand to complete my final project. It is a new tool that I haven't had hands on experience with yet and I can see myself using this outside of school work. My first task is to explore and choose the data I have. I'm choosing to do this first because the data need to be cleaned before analyzing and may take some time. I have collected years' worth of data on my training runs and around 20 race outcomes (half- and full-marathon). I hope to choose data for 2 race outcomes and compare the training plans I used. Next, I will develop a chart or graph to visualize the data I am comparing. 
 
 
