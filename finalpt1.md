@@ -15,7 +15,7 @@ My final project will be a guide for running a marathon. I will incorporate my o
 My story arc will have the following components:
 1. Set up: Marathong running is becoming more popular. A number of my friends and classmates signed up to participate in the Pittsburgh (Half) Marathon in May. 
 2. Conflict: There are many challenges with running a marathon (time-management, weather, and running isn't enjoyable!)
-3. Resolution/call to action: Proper training and mental preparation can overcome these challenges. And running is good for you, so run more. 
+3. Resolution/call to action: Proper training, mental preparation, and planning can help overcome these challenges. And running is good for you, so run more. 
 
 
 ### Initial Sketches
@@ -23,15 +23,15 @@ My story arc will have the following components:
 
 
 ### Data 
-My data sources will include:
+My main data source will be my own running data. I use a GPS watch to track nearly all of my runs. The data has running pace, location description, distance, and elevation. There are other attributes that are collected (like maps of the route, splits per mile, cadence), but they cannot be pulled all at once in a single file. I will select runs from the larger file and individually pull files for the addiitonal attributes. I want to use my own running data to highlight the effects of different training plans and dieting. My data sources will include:
 * My own running data collected from my GPS watch. Uploaded here: 
 * Offical race data from race organizers. Sources:
 * Qualitative data 
-  * Different race plans (Hal Higdon, Runner's World). Sources: 
+  * Different race plans (Hal Higdon, Runner's World). Sources: https://www.halhigdon.com/training/marathon-training/, https://www.runnersworld.com/uk/training/a760108/rws-basic-marathon-schedules-get-you-round/  
   * Diet plan for runners. Source: https://healthcare.utah.edu/healthfeed/postings/2017/03/marathon-nutrition.php
-  * Supplemental tips for running like mental conditioning, tools to plan long runs. Sources: 
-
-
+  * Supplemental tips for running like mental conditioning, tools to plan long runs. Sources: https://www.runnersworld.com/training/a20812161/how-to-avoid-hitting-the-wall-while-running/, https://onthegomap.com/#/create
+  
+  
 ### Method and Medium
 I will be using Shorthand to complete my final project. It is a new tool that I haven't had hands on experience with yet and I can see myself using this outside of school work. My first task is to explore and choose the data I have. I'm choosing to do this first because the data need to be cleaned before analyzing and may take some time. I have collected years' worth of data on my training runs and around 20 race outcomes (half- and full-marathon). I hope to choose data for 2 race outcomes and compare the training plans I used. Next, I will develop a chart or graph to visualize the data I am comparing. 
 
