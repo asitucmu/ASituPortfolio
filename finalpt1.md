@@ -19,13 +19,27 @@ My story arc will have the following components:
 
 
 ### Initial Sketches
+Below are my inital sketches for the final project. 
 
+#### Story Arc
+
+
+#### Personal Data 
+
+
+#### Challenges of Running
+
+
+#### Training/preparing 
+
+
+#### Benefits of Running
 
 
 ### Data 
 My main data source will be my own running data. I use a GPS watch to track nearly all of my runs. The data has running pace, location description, distance, and elevation. There are other attributes that are collected (like maps of the route, splits per mile, cadence), but they cannot be pulled all at once in a single file. I will select runs from the larger file and individually pull files for the addiitonal attributes. I want to use my own running data to highlight the effects of different training plans and dieting. My data sources will include:
 * My own running data collected from my GPS watch. Uploaded here: [Garmin Data](https://github.com/asitucmu/ASituPortfolio/blob/master/Activities%20Garmin%20new.csv/)
-* Offical race data from race organizers. Sources: [Halfmoon Bay Results](http://halfmoonbayim.org/event/past-results//), [CIM Results](https://results.chronotrack.com/event/results/event/event-23616/)
+* Offical race data from select race organizers. Sources: [Halfmoon Bay Results](http://halfmoonbayim.org/event/past-results//), [CIM Results](https://results.chronotrack.com/event/results/event/event-23616/)
 * Qualitative data 
   * Different race plans (Hal Higdon, Runner's World). Sources: https://www.halhigdon.com/training/marathon-training/, https://www.runnersworld.com/uk/training/a760108/rws-basic-marathon-schedules-get-you-round/  
   * Diet plan for runners. Source: https://healthcare.utah.edu/healthfeed/postings/2017/03/marathon-nutrition.php
