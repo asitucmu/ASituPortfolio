@@ -14,7 +14,7 @@ My final project will be a guide for running a marathon. I will incorporate my o
 
 My story arc will have the following components:
 1. Set up: Marathong running is becoming more popular. A number of my friends and classmates signed up to participate in the Pittsburgh (Half) Marathon in May. 
-2. Conflict: There are many challenges with running a marathon (time-management, weather, and running isn't enjoyable!)
+2. Conflict: There are many challenges with completing a marathon from training (time-management, weather, and running isn't enjoyable!) to the race itself (hitting the wall part way through). 
 3. Resolution/call to action: Proper training, mental preparation, and planning can help overcome these challenges. And running is good for you, so run more. 
 
 
@@ -40,6 +40,7 @@ Below are my inital sketches for the final project.
 My main data source will be my own running data. I use a GPS watch to track nearly all of my runs. The data has running pace, location description, distance, and elevation. There are other attributes that are collected (like maps of the route, splits per mile, cadence), but they cannot be pulled all at once in a single file. I will select runs from the larger file and individually pull files for the addiitonal attributes. I want to use my own running data to highlight the effects of different training plans and dieting. My data sources will include:
 * My own running data collected from my GPS watch. Uploaded here: [Garmin Data](https://github.com/asitucmu/ASituPortfolio/blob/master/Activities%20Garmin%20new.csv/)
 * Offical race data from select race organizers. Sources: [Halfmoon Bay Results](http://halfmoonbayim.org/event/past-results//), [CIM Results](https://results.chronotrack.com/event/results/event/event-23616/)
+* Hitting the wall research (between 43-52% of runners report hitting the wall during a race). Citation: Buman, Matthew P., Britton W. Brewer, Allen E. Cornelius, Judy L. Van Raalte, and Albert J. Petitpas. "Hitting the wall in the marathon: Phenomenological characteristics and associations with expectancy, gender, and running history." Psychology of sport and exercise 9, no. 2 (2008): 177-190.
 * Qualitative data 
   * Different race plans (Hal Higdon, Runner's World). Sources: https://www.halhigdon.com/training/marathon-training/, https://www.runnersworld.com/uk/training/a760108/rws-basic-marathon-schedules-get-you-round/  
   * Diet plan for runners. Source: https://healthcare.utah.edu/healthfeed/postings/2017/03/marathon-nutrition.php
