@@ -22,7 +22,7 @@ My story arc will have the following components:
 Below are my inital sketches for the final project. 
 
 #### Story Arc
-
+![Image](C:\Users\asitu\OneDrive\Documents\Heinz\Telling Stories with Data\Final Project\Sketch1.png)
 
 #### Personal Data 
 
