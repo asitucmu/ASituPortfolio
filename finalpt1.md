@@ -22,18 +22,13 @@ My story arc will have the following components:
 Below are my inital sketches for the final project. 
 
 #### Story Arc
-![Image](https://drive.google.com/open?id=1iOtKhJUZ-e90dbCO7GHsbDBul1Q3v-_V)
+[![Sketch1.png](https://i.postimg.cc/K4Sts4WP/Sketch1.png)](https://postimg.cc/JHxys7M0)
 
 #### Personal Data 
-
-
-#### Challenges of Running
-
+[![Sketch2.png](https://i.postimg.cc/NjQdgPN1/Sketch2.png)](https://postimg.cc/GHSFKzn2)
 
 #### Training/preparing 
-
-
-#### Benefits of Running
+[![Sketch3.png](https://i.postimg.cc/KYzQT3hj/Sketch3.png)](https://postimg.cc/TKzrMwwv)
 
 
 ### Data 
