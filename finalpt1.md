@@ -1,7 +1,7 @@
 ## Final Project: Part 1
 
 ### Project Outline & Structure/Story Arc
-My final project will be a guide for running a marathon. I will incorporate my own training data and race results with the following aspects of long distance running. 
+My final project will be a guide for running a marathon and avoide hitting the wall. I will incorporate my own training data and race results with the following aspects of long distance running. 
 
 
 1. Acheiving general fitness baseline
