@@ -19,7 +19,7 @@ My story arc will have the following components:
 
 
 ### Initial Sketches
-Below are my inital sketches for the final project. 
+Below are my inital sketches for the final project. I have sketched out the overall story arc and the types of data I plan to use for each part of the story. I also sketched out how I plan to visualize some of the data. 
 
 #### Story Arc
 [![Sketch1.png](https://i.postimg.cc/K4Sts4WP/Sketch1.png)](https://postimg.cc/JHxys7M0)
