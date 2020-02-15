@@ -11,3 +11,5 @@ Below are the first iterations of my storyboard (done with pen and paper).
 
 
 ### User research protocol & 3 interviews
+I created a table with the script & questions and responses from the 3 people I interviewed. Because my topic is focused on running marathons, I tried to pick respondents with varying running experience, from a non-runner to someone who ran in multiple races. The script and questions are on the first column and responses are recorded on the following columns. 
+[![Sketch5.jpg](https://i.ibb.co/1TtXFDm/interview-protocol.png)](https://i.ibb.co/1TtXFDm)
