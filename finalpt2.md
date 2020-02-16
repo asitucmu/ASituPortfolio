@@ -20,4 +20,11 @@ In my next iteration, I plan to use personas to better explain the story (contra
 
 
 ### Revised wireframes / storyboard
+For revisions, I focused on creating graphs around hitting the wall because it's the main challenge to my story. Here are the revisions to my graphs that explain hitting the wall. The first graph depics hitting the wall 3/4 into the race.  
+[![Graph1.png](https://media-cdn.shorthand.com/media/organisations/JSrgFWI7zn/qJuwJyYXGh/snip20200216_5-1312x1150.png)](https://media-cdn.shorthand.com/media/organisations/JSrgFWI7zn/qJuwJyYXGh/snip20200216_5-1312x1150)
+This graph compares outcomes of proper training and dieting vs the race where I hit the wall.
+[![Graph2.png](https://media-cdn.shorthand.com/media/organisations/JSrgFWI7zn/HTjWEtJUNj/multipleraces-1430x1254.png)](https://media-cdn.shorthand.com/media/organisations/JSrgFWI7zn/HTjWEtJUNj/multipleraces-1430x1254.png) 
 
+
+I began combining the feedback into Shortand. Preview here: 
+https://preview.shorthand.com/Ke3KDBczBomWgrW0
