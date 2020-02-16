@@ -1,7 +1,7 @@
 ## Final Project: Part 2
 
 ### Wirefames / storyboard for user feedback
-Below are the first iterations of my storyboard (done with pen and paper). 
+Below are the first iterations of my storyboard (done with pen and paper). My intended audience is someone who is interested in running a marathon or someone who signed up for running their first marathon. I want to tell a story utilizing data to demonstrate why it is important to follow a training plan and a dieting plan. 
 
 
 [![Sketch1.jpg](https://i.ibb.co/9ZrFBVh/IMG-9711.jpg)](https://ibb.co/BnCXvrG/IMG-9711)
