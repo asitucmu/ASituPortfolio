@@ -26,5 +26,5 @@ This graph compares outcomes of proper training and dieting vs the race where I 
 [![Graph2.png](https://media-cdn.shorthand.com/media/organisations/JSrgFWI7zn/HTjWEtJUNj/multipleraces-1430x1254.png)](https://media-cdn.shorthand.com/media/organisations/JSrgFWI7zn/HTjWEtJUNj/multipleraces-1430x1254.png) 
 
 
-I began combining the feedback into Shortand. Preview here: 
+I began combining the feedback into my updated wireframes, which I began building on Shortand. It currently outlines Preview here: 
 https://preview.shorthand.com/Ke3KDBczBomWgrW0
