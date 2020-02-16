@@ -17,3 +17,6 @@ Here is where I will store the data visualizations for class.
 
 
 [Part I: Final Project](/finalpt1.md)
+
+
+[Part II: Final Project](/finalpt2.md)
