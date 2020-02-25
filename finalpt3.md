@@ -1,12 +1,15 @@
+### Audience
 The audience of my story is new marathon runners. From my research, the share of new marathon participants is increasing every year and the average finishing time is also increasing. This indicates that more new runners are showing up to races ill prepared. I crafted this story to persuade new marathoners to stick to a training plan and follow a sensible diet or else they will risk hitting the wall or not finishing. 
 
-To develop this story, I wanted to use and explore my own running data. I have pace and outcome data for many of my training runs and races. I developed a few preliminary graphs that compared race outcomes based on following a training and dieting plan vs not following one. At this point, my focus and main audience was not clearly defined. After sharing my preliminary story with classmates and friends, I recieved actionable feedback regarding focusing on a more narrow audience (new marathoners vs runners in general) to better guide my story. 
+
+### Project Summary
+To develop this story, I wanted to use and explore my own running data. I have pace and outcome data for many of my training runs and races. I developed a few preliminary graphs along with a story arc that compared race outcomes based on following a training and dieting plan vs not following one. At this point, my focus and main audience was not clearly defined. After sharing my preliminary story with classmates and friends, I recieved actionable feedback regarding focusing on a more narrow audience (new marathoners vs runners in general) to better guide my story. 
 
 In my second revision, I explored using two personas to help explain why following a training plan is important. However, when building these personas, it made my message more complicated and longer than it should be. Instead, I was able to use myown data to tell the story of why following a training plan is important because I experienced some of the challenges (hitting the wall and lack of motivation to run) because I did not prepare well enough. 
 
 In my third revision, I changed the colors and restated my call to action based on feedback from classmates. I used Shorthand to create the final version of my story. 
 
-https://carnegiemellon.shorthandstories.com/so-you-signed-up-for-a-marathon/index.html
+[Shorthand link: So you signed up for a marathon](https://carnegiemellon.shorthandstories.com/so-you-signed-up-for-a-marathon/index.html)
 
 
 
