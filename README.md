@@ -20,3 +20,6 @@ Here is where I will store the data visualizations for class.
 
 
 [Part II: Final Project](/finalpt2.md)
+
+
+[Part III: Final Project](/finalpt3.md)
