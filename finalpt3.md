@@ -13,7 +13,7 @@ In my third revision, I changed the colors and restated my call to action based 
 
 
 
-Links and references 
+### Links and references 
 
 
 -“10 Health Benefits of Long-Distance Running.” Health24, June 4, 2017. https://www.health24.com/Fitness/Sport/Running/10-health-benefits-of-long-distance-running-20170602.
